@@ -18,7 +18,7 @@ Cloud and Infrastructure Architect
 <a href="https://github.com/PowerShell/PowerShell/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hmizael/profileme-dev/main/public/icons/skills/PowerShell-core-icon.png" width="36" height="36" alt="Powershell" /></a>&nbsp
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hmizael/profileme-dev/main/public/icons/skills/ansible-icon.svg" width="36" height="36" alt="Ansible" /></a>&nbsp
 <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hmizael/profileme-dev/main/public/icons/skills/office-365-icon.svg" width="36" height="36" alt="Office 365" /></a>&nbsp
-<a href="https://docs.microsoft.com/en-us/skypeforbusiness/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hmizael/profileme-dev/main/public/icons/skills/s4b-icon.svg" width="36" height="36" alt="Skype for Business" /></a>&nbsp
+<a href="https://docs.microsoft.com/en-us/skypeforbusiness/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hmizael/profileme-dev/main/public/icons/skills/s4b-icon.png" width="36" height="36" alt="Skype for Business" /></a>&nbsp
 <a href="https://docs.microsoft.com/en-us/exchange/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hmizael/profileme-dev/main/public/icons/skills/exchange-icon.svg" width="36" height="36" alt="Exchange Server" /></a>&nbsp
 </p>
 
