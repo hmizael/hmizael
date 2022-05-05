@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi 👋 My name is Henrique Mizael
+================================
 
-<!--
-**hmizael/hmizael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud and Infrastructure Architect
+----------------------------------
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Brasília, Brazil
+* ✉️  You can contact me at [hmizael@gmail.com](mailto:hmizael@gmail.com)
+* 🧠  I'm learning Kubernetes
+* 🤝  I'm open to collaborating on Infrastructure as Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+<p align="left">
+<a href="https://terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hmizael/profileme-dev/main/public/icons/skills/terraformio-icon.svg" width="36" height="36" alt="Terraform" /></a>
+</p>
+
+### Socials
+
+<p align="left">
+<a href="https://www.github.com/hmizael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/hmizael" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
