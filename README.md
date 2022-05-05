@@ -13,9 +13,9 @@ Cloud and Infrastructure Architect
 
 <p align="left">
 <a href="https://terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hmizael/profileme-dev/main/public/icons/skills/terraformio-icon.svg" width="36" height="36" alt="Terraform" /></a>&nbsp
-<a href="https://terragrunt.gruntwork.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hmizael/profileme-dev/main/public/icons/skills/terragrunt-icon.pnh" width="36" height="36" alt="Terraform" /></a>&nbsp
-<a href="https://azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hmizael/profileme-dev/main/public/icons/skills/azure-icon.svg" width="36" height="36" alt="Terraform" /></a>&nbsp
-<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hmizael/profileme-dev/main/public/icons/skills/office-365-icon.svg" width="36" height="36" alt="Terraform" /></a>&nbsp
+<a href="https://terragrunt.gruntwork.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hmizael/profileme-dev/main/public/icons/skills/terragrunt-icon.png" width="36" height="36" alt="Terragrunt" /></a>&nbsp
+<a href="https://azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hmizael/profileme-dev/main/public/icons/skills/azure-icon.svg" width="36" height="36" alt="Azure" /></a>&nbsp
+<a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hmizael/profileme-dev/main/public/icons/skills/office-365-icon.svg" width="36" height="36" alt="Office 365" /></a>&nbsp
 </p>
 
 ### Socials
